@@ -3,7 +3,6 @@ package com.ibrahimcanerdogan.advancedandroidbootcamp.livedata
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModelProvider
 import com.ibrahimcanerdogan.advancedandroidbootcamp.databinding.ActivityLiveDataBinding
 
 class LiveDataActivity : AppCompatActivity() {
